@@ -76,6 +76,12 @@ Garra_Mecanica_Arduino/
 
 ---
 
+## 🎥 Demonstração do Projeto
+
+[![Assista ao vídeo](https://img.youtube.com/vi/ID_DO_VIDEO/maxresdefault.jpg)](https://youtu.be/mh5qwwwUMws)
+
+---
+
 ## 👨‍💻 Autor
 
 Desenvolvido por [**Miguel Gengo**](https://www.linkedin.com/in/miguel-gengo-8157b72a1)  
