@@ -9,8 +9,8 @@ Este projeto representa não só a base física da robótica, mas também um pas
 ## 🛠️ Projeto Montado
 
 ![Garra - Visão Lateral](./assets/Garra1.jpeg)
-![Garra - Visão Frontal](./assets//Garra2.jpeg)
-![Garra - ](./assets//Garra3.jpeg)
+![Garra - Visão Frontal](./assets/Garra2.jpeg)
+![Garra - Conectada ao Notebook](./assets/Garra3.jpeg)
 
 ---
 
@@ -75,8 +75,6 @@ Garra_Mecanica_Arduino/
 4. Abra o Monitor Serial para depuração e pronto!
 
 ---
-
-![Garra Vídeo Teste - ](./assets/VídeoGarraTeste.mp4)
 
 ## 👨‍💻 Autor
 
