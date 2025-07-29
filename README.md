@@ -78,7 +78,8 @@ Garra_Mecanica_Arduino/
 
 ## 🎥 Demonstração do Projeto
 
-[![Assista ao vídeo](https://img.youtube.com/vi/ID_DO_VIDEO/maxresdefault.jpg)](https://youtu.be/mh5qwwwUMws)
+[![Assista ao vídeo](https://img.youtube.com/vi/mh5qwwwUMws/maxresdefault.jpg)](https://youtu.be/mh5qwwwUMws)
+
 
 ---
 
