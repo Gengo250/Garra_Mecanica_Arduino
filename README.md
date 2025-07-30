@@ -14,12 +14,6 @@ Este projeto representa não só a base física da robótica, mas também um pas
 
 ---
 
-## 🎮 Controles Utilizados
-
-![Componentes de Controle](./assets//ControlesGarra.jpeg)
-
----
-
 ## 🎯 Objetivo
 
 Controlar os movimentos de um braço robótico com 4 servos de forma manual e precisa, com resposta rápida via dois joysticks — ideal para treinar coordenação de movimentos e lógica de automação.
